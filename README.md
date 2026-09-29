@@ -31,7 +31,6 @@ python predict.py --sepal_length 5.1 --sepal_width 3.5 --petal_length 1.4 --peta
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Priyadh1/Syntecxhub_Flower_classification/blob/main/Syntecxhub_flower_classification.ipynb)
 
-![Flower predictor UI](predictor.png)
 
 ### Example predictions
 ![Predictor examples for all three species](predictor_examples.png)
